@@ -1,0 +1,4 @@
+LOAD MAX(DATE(FLOOR([Fecha Dato]))) as FECHA_MAX
+Resident FACT_TABLE;
+
+LET v_FechaMax= FieldValue('FECHA_MAX', 1); 
