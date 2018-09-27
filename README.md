@@ -1,0 +1,2 @@
+# Qlik
+Qlik Snippets Code
