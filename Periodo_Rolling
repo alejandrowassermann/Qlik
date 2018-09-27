@@ -1,1 +1,4 @@
 [EN_CURSO.Inicio] = {">=$(=(v_FechaInicio))<=$(=(v_FechaFin))"}
+
+
+<Dia-=,Mes-=,Año-=,FechaFinSolic={">=$(=$(v_FechaMesActualDesde))<=$(=(v_FechaMesActualHasta))"}>
