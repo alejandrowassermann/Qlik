@@ -1,0 +1,1 @@
+[EN_CURSO.Inicio] = {">=$(=(v_FechaInicio))<=$(=(v_FechaFin))"}
